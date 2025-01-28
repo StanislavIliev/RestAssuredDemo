@@ -2,12 +2,9 @@ package tests;
 
 import java.util.HashMap;
 import java.util.Map;
-
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;
-
 import io.restassured.http.ContentType;
-
 import static io.restassured.RestAssured.*;
 
 public class Test_POST {
